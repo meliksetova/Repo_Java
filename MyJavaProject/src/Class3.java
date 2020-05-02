@@ -31,10 +31,5 @@ public class Class3 {
         int myFirstNameSplitLen = myFirstNameSplit.length;
         System.out.println ("Length of my name: " + myFirstNameSplitLen + " letters");
 
-
-
-
-
-
     }
 }
